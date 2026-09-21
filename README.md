@@ -276,8 +276,8 @@ jupyter notebook HimaniMane_SmartSupply_Insights.ipynb
 ## GitHub Repository
 
 After uploading:
-- Repository: `https://github.com/YOUR_USERNAME/SmartSupply-Insights`
-- Notebook: `https://github.com/YOUR_USERNAME/SmartSupply-Insights/blob/main/HimaniMane_SmartSupply_Insights.ipynb`
+- Repository: `https://github.com/himanimane/SmartSupply-Insights`
+- Notebook: `https://github.com/himanimane/SmartSupply-Insights/blob/main/HimaniMane_SmartSupply_Insights.ipynb`
 
 *(Replace `YOUR_USERNAME` with your actual GitHub username after upload)*
 
